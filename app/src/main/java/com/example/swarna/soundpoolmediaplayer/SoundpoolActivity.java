@@ -56,8 +56,6 @@ private Button button,button1;
                 startActivity(intent);
             }
         });
-
-
     }
 
     @Override
